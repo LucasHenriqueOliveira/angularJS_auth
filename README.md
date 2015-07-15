@@ -1,5 +1,5 @@
 # How To Handle User Authentication With AngularJS Inside Your Ionic App
-by (Simon Reimler) [http://devdactic.com/user-auth-angularjs-ionic/]
+by [Simon Reimler](http://devdactic.com/user-auth-angularjs-ionic/)
 
 ### SETUP EVERYTHING WE NEED
 * ionic start devdactic-auth blank
